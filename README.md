@@ -18,8 +18,9 @@ El script es el siguiente:
 
 
 |Tipo|Contenido|Script|Patron ruta|Ejemplo
-|-----|--------
-|Recurso semántica débil| Imágenes enlaces
+|-----|--------|-|----------|-
+|Recurso semántica débil| Imágenes enlaces |semantica-debil.sh |/imagenesEnlaces/[ID_RECURSO,0-2]/[ID_RECURSO,0-4]/[ID_RECURSO]/[ID_IMAGEN].[EXTENSION]|/imagenesEnlaces/f3/f3fa/f3fa4d58-2baa-4170-8d2b-fc624793510c/f3fa4d58-2baa-4170-8d2b-fc624793510c.jpg
+|
 
 
 ```

@@ -28,7 +28,6 @@ El script es el siguiente:
 |rutacsvProyecto| Ruta al csv de Proyecto
 |rutacsvRecursossemanticos| Ruta al csv de Recursossemanticos
 |rutacsvSemanticadebil| Ruta al csv de Semanticadebil
-|
 
 
 ```
@@ -53,4 +52,4 @@ mkdir ./logs
 ```
 
 
-Al copiar el script se puede reemplazar todas las variables "<nombre_proyecto>" por el valor real.
+Si se ha seguido el esquema de carpetas, entonces se puede reemplazar la palabra "<nombre_proyecto>" por el valor de la variable $proyecto.
